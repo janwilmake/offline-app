@@ -18,3 +18,5 @@
 - ✅ **TypeScript support** with proper types
 
 Deploy this to Cloudflare Workers and visit the site. After the first load, it will work completely offline, just like X.com!
+
+After this I also made this into a simplified library that just makes your worker offline-capable: https://github.com/janwilmake/make-offline
